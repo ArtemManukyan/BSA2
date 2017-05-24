@@ -2,7 +2,7 @@
 
 Hello, this is my second homework. 
 
-Integrated all the required instruments of ES6, that was mentioned in the task:
+Integrated all the required instruments of ES6 that were mentioned in the task:
 
 * Block scoping
 * Spread and rest operators
