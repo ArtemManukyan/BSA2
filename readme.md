@@ -1,4 +1,4 @@
-# First homework for Binary Studio Academy
+# Second homework for Binary Studio Academy
 
 Hello, this is my second homework. 
 
