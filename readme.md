@@ -13,4 +13,8 @@ Integrated all the required instruments of ES6 that were mentioned in the task:
 * Inheritance
 * Super keyword
 
-Also tried the Map() datatype and extended the task for a little by adding the verification of the function's arguments. 
+Also tried the Map() datatype and extended the task for a little by adding the verification of the function's arguments.
+
+---
+
+Added the 'visual-representation' branch, which makes a random fight of Homer Simpson and Peter Griffin.
